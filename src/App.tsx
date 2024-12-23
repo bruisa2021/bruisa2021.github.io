@@ -1,4 +1,5 @@
 import BudgetApp from './components/BudgetApp'
+import './App.css'
 
 function App() {
   return (
